@@ -3,7 +3,7 @@
 A full-stack social platform for creating communities, posting threads, and discussing content, with AI-powered features via the Gemini API.
 
 ![MediaSphere Banner](https://j.top4top.io/p_34982d9241.png)
-
+[Demo](https://www.youtube.com/watch?v=OUWr4qdbPJg)
 ## Features
 
 ### Community Management
